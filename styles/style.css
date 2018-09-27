@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.add-prompt-btn {
+  background-color: orangered;
+  border: none;
+  border-radius: 50%;
+  color: #fff;
+  cursor: pointer;
+  display: block;
+  font-size: 16px;
+  font-weight: 900;
+  height: 100px;
+  outline: none;
+  width: 100px;
+}
+
+.add-prompt-btn:active {
+  background-color: rgb(184, 54, 7);
+}
