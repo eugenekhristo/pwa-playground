@@ -1,1 +1,3 @@
-console.log(2112);
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js');
+}
