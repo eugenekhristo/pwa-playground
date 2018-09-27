@@ -1,0 +1,23 @@
+{
+  "name": "pwa-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync -f **/* --no-notify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugenekhristo/pwa-playground.git"
+  },
+  "keywords": [],
+  "author": "Eugene Christo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eugenekhristo/pwa-playground/issues"
+  },
+  "homepage": "https://github.com/eugenekhristo/pwa-playground#readme",
+  "dependencies": {
+    "browser-sync": "^2.24.7"
+  }
+}
